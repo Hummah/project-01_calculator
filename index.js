@@ -17,7 +17,7 @@ document.querySelector("input").value=string;
 string=""
     } 
 
-   else if(e.target.innerHTML == "c"){
+   else if(e.target.innerHTML == "AC"){
        string="";
        document.querySelector("input").value=string;
 
